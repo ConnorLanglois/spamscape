@@ -20,9 +20,9 @@ Clone the repo.
 
 Run the main file:
 
-	```
-	src/SpamScape.au3
-	```
+```
+src/SpamScape.au3
+```
 
 ## Authors
 
